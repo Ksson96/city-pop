@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6b667b1 (Include Readme)
 # CityPop Tracker
 
 CityPop Tracker is a mock application aimed at giving users the capability to retrieve population data for the cities around the world.
@@ -65,4 +68,7 @@ How to run the application
 
 # Credits
 Credit to [Geonames Webservices](https://www.geonames.org/) for usage of their API
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b667b1 (Include Readme)
