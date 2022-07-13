@@ -1,0 +1,13 @@
+form {
+    text-align: center;
+}
+
+button {
+    float: right;
+    width: 100%;
+}
+
+input {
+    margin-bottom: 0.5rem;
+
+}
