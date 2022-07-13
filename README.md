@@ -64,7 +64,3 @@ How to run the application
 
 # Credits
 Credit to [Geonames Webservices](https://www.geonames.org/) for usage of their API
-<<<<<<< HEAD
-
-=======
->>>>>>> 6b667b1 (Include Readme)
