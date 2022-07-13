@@ -7,8 +7,8 @@ CityPop Tracker is a mock application aimed at giving users the capability to re
 1. [UX](#ux)
 
 2. [Features](#features)
-  - [City](#city)
-  - [Country](#country)
+   - [City](#city)
+   - [Country](#country)
 
 3. [Technology Used](#technology-used)
 
