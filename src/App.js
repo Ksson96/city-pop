@@ -62,9 +62,7 @@ function App() {
         {errorMessage && <h4>{errorMessage}</h4>}
         {searchResults && !isLoading && searchResults.map((item, index)  => (
         <SearchResults
-          role="result-item"
-          key={Math.random(Math.floor() * 10)}
-          data-testid="resultitem" 
+          key={Math.random(Math.floor() * 10)} 
           countryName={item.countryName}
           population={item.population}
           cityName={item.toponymName}
